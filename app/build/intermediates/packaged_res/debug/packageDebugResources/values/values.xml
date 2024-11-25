@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="main">#030303</color>
+    <color name="main_orange">#d77709</color>
+    <color name="main_white">#f3f3f3</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Signup">Sign Up</string>
+    <string name="app_logo">app_logo</string>
+    <string name="app_name">crew_cue</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_email">email</string>
+    <string name="enter_password">password</string>
+    <string name="login">Login</string>
+    <string name="login_text">Login</string>
+    <string name="sign_up">signup\n</string>
+    <style name="Base.Theme.Crew_cue" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Crew_cue" parent="Base.Theme.Crew_cue"/>
+</resources>

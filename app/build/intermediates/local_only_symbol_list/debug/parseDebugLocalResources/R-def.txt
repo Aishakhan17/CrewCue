@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color main
+color main_orange
+color main_white
+color white
+drawable background_img_bitmap
+drawable bg
+drawable bg_test
+drawable custom_edittext
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id main
+id passwordEditText
+id toolbar
+id usernameEditText
+layout activity_main
+layout custom_login
+layout custom_signup
+layout toolbar
+mipmap app_logo
+mipmap ic_launcher
+mipmap ic_launcher_round
+string Signup
+string app_logo
+string app_name
+string create_account
+string enter_email
+string enter_password
+string login
+string login_text
+string sign_up
+style Base.Theme.Crew_cue
+style Theme.Crew_cue
+xml backup_rules
+xml data_extraction_rules
