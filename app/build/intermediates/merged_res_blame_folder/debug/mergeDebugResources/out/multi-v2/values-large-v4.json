@@ -4,7 +4,7 @@
             "outputFile": "com.example.crew_cue.app-mergeDebugResources-29:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ak24877\\.gradle\\caches\\transforms-4\\6b5aedb1e261cbc6d952e58769e5e393\\transformed\\appcompat-1.6.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\ak24877\\.gradle\\caches\\transforms-4\\bd1646ad1f875da3bed997cc4bf89378\\transformed\\appcompat-1.6.1\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ak24877\\.gradle\\caches\\transforms-4\\e89a44a07cd2a86a19deff603a448b98\\transformed\\material-1.10.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\ak24877\\.gradle\\caches\\transforms-4\\7eb1a9dc69ad539a5ef58d9031a493c9\\transformed\\material-1.10.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

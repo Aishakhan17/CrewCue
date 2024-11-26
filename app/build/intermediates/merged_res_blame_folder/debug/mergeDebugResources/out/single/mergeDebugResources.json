@@ -92,6 +92,10 @@
         "source": "com.example.crew_cue.app-main-33:/mipmap-mdpi/app_logo.png"
     },
     {
+        "merged": "com.example.crew_cue.app-debug-31:/layout_landing_page.xml.flat",
+        "source": "com.example.crew_cue.app-main-33:/layout/landing_page.xml"
+    },
+    {
         "merged": "com.example.crew_cue.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "com.example.crew_cue.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
     },

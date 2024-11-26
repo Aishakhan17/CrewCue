@@ -18,6 +18,7 @@ id usernameEditText
 layout activity_main
 layout custom_login
 layout custom_signup
+layout landing_page
 layout toolbar
 mipmap app_logo
 mipmap ic_launcher

@@ -1,0 +1,6 @@
+com.example.crew_cue.test.app-core-1.5.0-0 C:\Users\ak24877\.gradle\caches\transforms-4\0e62095d22c2921bcc1bccb1c0b134a4\transformed\core-1.5.0\res
+com.example.crew_cue.test.app-annotation-experimental-1.3.0-1 C:\Users\ak24877\.gradle\caches\transforms-4\13dfcfc841667b96a7b779222634d8a5\transformed\annotation-experimental-1.3.0\res
+com.example.crew_cue.test.app-androidTest-2 C:\Users\ak24877\StudioProjects\CrewCue\app\build\generated\res\resValues\androidTest\debug
+com.example.crew_cue.test.app-mergeDebugAndroidTestResources-3 C:\Users\ak24877\StudioProjects\CrewCue\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.crew_cue.test.app-mergeDebugAndroidTestResources-4 C:\Users\ak24877\StudioProjects\CrewCue\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.crew_cue.test.app-debugAndroidTest-5 C:\Users\ak24877\StudioProjects\CrewCue\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

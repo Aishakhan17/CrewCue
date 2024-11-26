@@ -45,7 +45,8 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+    /*implementation(libs.kotlinx.coroutines.core)
     implementation(libs.mongodb.driver.kotlin.coroutine.v520)
-    implementation(libs.bson.kotlinx)
+    implementation(libs.bson.kotlinx)*/
 
 }
